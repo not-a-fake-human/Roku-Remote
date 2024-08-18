@@ -1,0 +1,19 @@
+F1: power button
+F2: mute
+F3: home
+F4: info
+Up Arrow: Up Arrow
+Down Arrow: Down Arrow
+Left Arrow: Left Arrow
+Right Arrow: Right Arrow
+y: launch youtube
+n: launch netflix
+r: launch roku channel
+d: launch disney plus
+,: volume up
+.: volume down
+Enter: OK
+If you enter text in the text box then click search it will search it in the search box on the TV
+if you click search IPs it will search the TVs
+if you want launching apps to work you have to shorten <Roku: 999.999.999.999:8060> to 999.999.999.999
+note you have to change the TVs IP Address in the code
