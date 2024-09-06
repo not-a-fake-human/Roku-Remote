@@ -23,6 +23,10 @@ install dependencies:
       pip install tkinter
   roku:
     download zip file from: https://github.com/jcarbaugh/python-roku
+
+install font:
+  download font from https://font.download/font/diary-of-a-wimpy-kid
+  then run and install font
     
   extract zip
   
