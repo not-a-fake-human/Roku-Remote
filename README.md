@@ -1,6 +1,7 @@
 note:
   I will make an updated version that doesn't need to be built from scratch and will have updated instructions.
-  install instructions for debian, and debian based systems
+  
+install instructions for debian, and debian based systems
 
 dependencies:
     pygame, tkinter, python-roku, python
